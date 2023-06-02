@@ -5,12 +5,7 @@
 ## Who i am:
 - pego treino do tiktok
 ```
-I'm a High School student.
-I live In Brazil, i've already started my studies in 4 languages, HTML, CSS, JavaScript and JAVA,
-which i'm currently studying to improve even more my knowledge and skills.
-my goal is to follow a career in this area, where
-i hope i can develop great projects and to turn into a better person, walking side by side with my programming skills. 
-Now, my GitHub is focused on school projects.
+I am a studente, super curious and creative, like a lot of design and make funny things with technology, i am a vocational student in systems development, hope you find something good here
 ```
 <hr>
 <div align="center">
