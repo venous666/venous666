@@ -53,7 +53,7 @@ Now, my GitHub is focused on school projects.
 </p>
 <div>
 <img align=middle src=https://pbs.twimg.com/profile_images/1470147870032601091/vXLwgizF_400x400.jpg width=400 height=300> 
-<img align="middle" src="https://gifdb.com/images/high/rei-ayanami-fighting-scene-zm4su8pqff6a0yic.webp" width=400 height=300>
+<img align="middle" src="https://capricho.abril.com.br/wp-content/uploads/2019/05/taylor-swift.gif" width=400 height=300>
  </div>
 
 <!---
