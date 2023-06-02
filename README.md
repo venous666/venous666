@@ -52,7 +52,7 @@ Now, my GitHub is focused on school projects.
   <img src="https://profile-counter.glitch.me/EnzoBDF/count.svg" />
 </p>
 <div>
-<img align=middle src=https://pbs.twimg.com/profile_images/1470147870032601091/vXLwgizF_400x400.jpg width=400 height=300> 
+<img align=middle src=https://i.pinimg.com/564x/9e/4c/f5/9e4cf58ce6d48a27feddddf8122b0b15.jpg width=400 height=300> 
 <img align="middle" src="https://capricho.abril.com.br/wp-content/uploads/2019/05/taylor-swift.gif" width=400 height=300>
  </div>
 
