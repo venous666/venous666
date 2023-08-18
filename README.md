@@ -10,7 +10,7 @@ I am a student, super curious and creative, like a lot of design and make funny 
 <hr>
 <div align="center">
  <div>
-<a href="https://github.com/EnzoBDF">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venous666&layout=compact&langs_count=7&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venous666&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
@@ -51,7 +51,4 @@ I am a student, super curious and creative, like a lot of design and make funny 
 <img align="middle" src="https://capricho.abril.com.br/wp-content/uploads/2019/05/taylor-swift.gif" width=400 height=300>
  </div>
 
-<!---
-EnzoBDF/EnzoBDF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
