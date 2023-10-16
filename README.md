@@ -48,7 +48,7 @@ I am a student, super curious and creative, like a lot of design and make funny 
 </p>
 <div>
 <img align=middle src=https://i.pinimg.com/564x/9e/4c/f5/9e4cf58ce6d48a27feddddf8122b0b15.jpg width=400 height=300> 
-<img align="middle" src="https://i.pinimg.com/564x/a1/e0/48/a1e048847f9807fb4503967f3292e06a.jpg" width=400 height=300>
+<img align="middle" src="https://i.pinimg.com/564x/d6/6f/99/d66f99bc0022ec28cbe57f05866483a5.jpg" width=400 height=300>
  </div>
 
 
